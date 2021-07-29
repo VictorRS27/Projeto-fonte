@@ -12,10 +12,15 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 
 ## Falstad
 
-![falstad_print](https://media.discordapp.net/attachments/865639076875337732/870119240290668614/CircuitoLegendado.png?width=960&height=339) 
+![falstad_print](https://media.discordapp.net/attachments/865639076875337732/870119240290668614/CircuitoLegendado.png?width=960&height=339)
 https://tinyurl.com/ye6mbldb
 
 ## Eagle
+- ### Schematic :
+
+![schematic_print](https://media.discordapp.net/attachments/865639076875337732/870311907519762462/unknown.png)
+- ###  Board gerada : 
+
 
 ![eagle_print](https://cdn.discordapp.com/attachments/865639076875337732/870120720972251156/unknown.png) 
 
@@ -32,3 +37,5 @@ https://tinyurl.com/ye6mbldb
 | [Transistor BC547](https://www.baudaeletronica.com.br/transistor-npn-bc547.html) | R$0,15 | 
 | [Potenciômetro 10k](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html) | R$1,79 | 
 | [Chave liga desliga](https://www.baudaeletronica.com.br/mini-chave-gangorra-kcd11-101-2-terminais-preta.html?gclid=CjwKCAjwo4mIBhBsEiwAKgzXOM7wpyff5rrOv0SEl-ad5IGz7fj6cbEDuMRBkYQa2_xES3OgqFlXNxoCUFgQAvD_BwE) | R$1,24 | 
+
+[Vídeo explicativo](https://youtu.be/oDzNY9kBGII)
